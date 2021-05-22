@@ -81,6 +81,6 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 * `queries.sql` file of the queries.
 
-* `Bonus.ipyp` Jupyter Notebook of the bonus analysis.
+* `Bonus.ipynb` Jupyter Notebook of the bonus analysis.
 
 
